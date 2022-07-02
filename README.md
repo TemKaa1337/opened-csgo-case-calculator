@@ -1,0 +1,1 @@
+# opened-csgo-case-calculator
